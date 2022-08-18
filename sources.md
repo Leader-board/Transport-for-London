@@ -34,3 +34,10 @@
 * https://www.whatdotheyknow.com/request/ticketing_revenue_update_7
 * https://www.whatdotheyknow.com/request/may_i_request_some_copies_of_the
 * https://www.whatdotheyknow.com/request/2010_2011_fares_manuals
+* https://foi.tfl.gov.uk/FOI-0724-2122/TRU132_Redacted.pdf
+* https://foi.tfl.gov.uk/FOI-0432-2223/TRU138_Redacted.pdf
+* https://foi.tfl.gov.uk/FOI-1159-2122/TRU133_Redacted.pdf
+* https://foi.tfl.gov.uk/FOI-2880-2122/TRU136_Redacted.pdf
+* https://www.whatdotheyknow.com/request/ticketing_and_revenue_update_113
+* https://www.whatdotheyknow.com/request/ticketing_and_revenue_updates_ju
+* https://www.whatdotheyknow.com/request/ticketing_revenue_update_128_cur
